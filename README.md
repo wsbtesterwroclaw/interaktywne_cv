@@ -13,6 +13,7 @@
 - APPIUM
 - SELENIUM WEBDRIVER 
 - ROBOT FRAMEWORK
+- DOCKER
 
 
 * Zapraszam do kontaktu !
