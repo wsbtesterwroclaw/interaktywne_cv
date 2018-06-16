@@ -16,3 +16,10 @@
 
 
 * Zapraszam do kontaktu !
+
+
+## OTO FRAGMENT MOJEGO SKRYPTU TESTOWEGO W PYTHON
+```python
+s = "Selenium"
+print s
+```
