@@ -8,3 +8,11 @@
 
 
 
+#### Moje ulubione narzędzia testerskie
+- JIRA
+- APPIUM
+- SELENIUM WEBDRIVER 
+- ROBOT FRAMEWORK
+
+
+* Zapraszam do kontaktu !
